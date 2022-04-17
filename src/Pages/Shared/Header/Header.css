@@ -1,0 +1,32 @@
+.nav-container {
+    display: flex;
+}
+
+.navbar {
+
+}
+
+.title {
+    display: flex;
+}
+
+.title > h2 {
+    margin-top: 40px;
+}
+
+.title > img {
+    width: 20%;
+}
+
+.balance {
+    color: #ED90B7;
+}
+
+.yoga {
+    color: #952A88;
+}
+
+
+.header-main {
+    background-image: url(bg);
+}
