@@ -1,44 +1,23 @@
 [
     {
         "id": 1,
-        "name": "",
-        "price": "300",
-        "description": "",
-        "img": ""
+        "name": "FREE MINI RETREAT",
+        "price": "& 300",
+        "description": "Take some sacred time for yourself and restore peace with my virtual retreat.",
+        "img": "https://i.ibb.co/HqXtNZb/membership.png"
     },
     {
         "id": 2,
-        "name": "",
+        "name": "LIGHTER MEMBERSHIP",
         "price": "100",
-        "description": "",
-        "img": ""
+        "description": "Explore the spacious, otherworldly practice of restorative yoga - in community.",
+        "img": "https://i.ibb.co/7CzPXxP/retreat.png"
     },
     {
         "id": 3,
-        "name": "",
+        "name": "THE FREE PODCAST",
         "price": "150",
-        "description": "",
-        "img": ""
-    },
-    {
-        "id": 4,
-        "name": "",
-        "price": "180",
-        "description": "",
-        "img": ""
-    },
-    {
-        "id": 5,
-        "name": "",
-        "price": "100",
-        "description": "",
-        "img": ""
-    },
-    {
-        "id": 6,
-        "name": "",
-        "price": "300",
-        "description": "",
-        "img": ""
+        "description": "Get loving guidance and tools for less stress, more flow and fulfilling your purpose.",
+        "img": "https://i.ibb.co/qn9rZVN/Yoga-podcasts.png"
     }
 ]

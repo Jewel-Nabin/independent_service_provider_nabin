@@ -26,7 +26,17 @@
     color: #952A88;
 }
 
+.routes {
+    margin-top: 60px;
+    margin-left: 10%;
+}
 
-.header-main {
-    background-image: url(bg);
+.routes a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #952A88;
+}
+
+.routes a:hover {
+    color: #ED90B7;
 }

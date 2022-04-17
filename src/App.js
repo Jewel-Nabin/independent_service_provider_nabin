@@ -4,6 +4,7 @@ import AboutMe from './Pages/AboutMe/AboutMe';
 import Home from './Pages/Home/Home/Home';
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
+import NotPageFound from './Pages/Shared/NotPageFound/NotPageFound';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/aboutme' element={<AboutMe></AboutMe>}></Route>
+        <Route path='*' element={<NotPageFound></NotPageFound>}></Route>
       </Routes>
       <Footer></Footer>
     </div>

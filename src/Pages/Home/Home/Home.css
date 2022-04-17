@@ -1,0 +1,14 @@
+.header-main {
+    display: flex;
+    background-color: #D8D8D8;
+    padding: 80px;
+}
+
+.bg-title {
+    margin-right: 50px;
+}
+
+.bg-img {
+    width: 50%;
+    height: 50%;
+}
