@@ -8,6 +8,7 @@
 
 .title {
     display: flex;
+    text-decoration: none;
 }
 
 .title > h2 {
@@ -27,8 +28,8 @@
 }
 
 .routes {
-    margin-top: 60px;
-    margin-left: 10%;
+    margin-top: 50px;
+    margin-left: 5%;
 }
 
 .routes a {
@@ -39,4 +40,11 @@
 
 .routes a:hover {
     color: #ED90B7;
+}
+
+
+.login-btn > button {
+    color: white;
+    background: #d63384;
+    border: none;
 }
