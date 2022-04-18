@@ -64,10 +64,10 @@ const Login = () => {
             <h2 className='text-primary text-center mt-2'>Please Login</h2>
             <Form onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
-                    <Form.Control ref={emailRef} type="email" placeholder="Enter email" required />
+                    <Form.Control ref={emailRef} name="email" type="email" placeholder="Enter email" required />
                 </Form.Group>
                 <Form.Group className="mb-3" controlId="formBasicPassword">
-                    <Form.Control ref={passwordRef} type="password" placeholder="Password" required />
+                    <Form.Control ref={passwordRef} name="password" type="password" placeholder="Password" required />
                 </Form.Group>
                 <Button variant="primary w-50 mx-auto d-block mb-2" type="submit">
                     Login
