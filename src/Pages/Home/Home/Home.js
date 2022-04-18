@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
-import Services from './Services/Services';
-import background from '../../../Images/banner/background.jpg';
+import background from '../../../images/banner/background.jpg';
+import Services from '../Services/Services';
 
 
 const Home = () => {

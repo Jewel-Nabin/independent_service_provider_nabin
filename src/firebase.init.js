@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAYE0_sm2tdrwn58YaJPBJyr1LfnAGBFYc",
-    authDomain: "true-balance-yoga.firebaseapp.com",
-    projectId: "true-balance-yoga",
-    storageBucket: "true-balance-yoga.appspot.com",
-    messagingSenderId: "314087627250",
-    appId: "1:314087627250:web:311b038b16b113f4fb336b"
+    apiKey: "AIzaSyAvMs34wKYco_39Vh-wUCfzgCmk_Oyj4D4",
+    authDomain: "balance-yoga-25ef2.firebaseapp.com",
+    projectId: "balance-yoga-25ef2",
+    storageBucket: "balance-yoga-25ef2.appspot.com",
+    messagingSenderId: "176140552932",
+    appId: "1:176140552932:web:585c81cbe4d1024a25baf1"
 };
 
 // Initialize Firebase

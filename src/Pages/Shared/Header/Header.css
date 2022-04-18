@@ -1,22 +1,9 @@
-.nav-container {
-    display: flex;
+.page-name {
+    margin-top: 45px;
 }
 
-.navbar {
-
-}
-
-.title {
-    display: flex;
+.page-name > h2 {
     text-decoration: none;
-}
-
-.title > h2 {
-    margin-top: 40px;
-}
-
-.title > img {
-    width: 20%;
 }
 
 .balance {
@@ -27,24 +14,6 @@
     color: #952A88;
 }
 
-.routes {
-    margin-top: 50px;
-    margin-left: 5%;
-}
-
-.routes a {
-    margin-right: 20px;
-    text-decoration: none;
+.linkText {
     color: #952A88;
-}
-
-.routes a:hover {
-    color: #ED90B7;
-}
-
-
-.login-btn > button {
-    color: white;
-    background: #d63384;
-    border: none;
 }

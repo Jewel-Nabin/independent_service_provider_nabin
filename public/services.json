@@ -2,22 +2,43 @@
     {
         "id": 1,
         "name": "FREE MINI RETREAT",
-        "price": "& 300",
+        "price": "63.11",
         "description": "Take some sacred time for yourself and restore peace with my virtual retreat.",
         "img": "https://i.ibb.co/HqXtNZb/membership.png"
     },
     {
         "id": 2,
         "name": "LIGHTER MEMBERSHIP",
-        "price": "100",
+        "price": "99.98",
         "description": "Explore the spacious, otherworldly practice of restorative yoga - in community.",
-        "img": "https://i.ibb.co/7CzPXxP/retreat.png"
+        "img": "https://i.ibb.co/99tQNYN/image-9-370x370.png"
     },
     {
         "id": 3,
         "name": "THE FREE PODCAST",
-        "price": "150",
+        "price": "23.76",
         "description": "Get loving guidance and tools for less stress, more flow and fulfilling your purpose.",
         "img": "https://i.ibb.co/qn9rZVN/Yoga-podcasts.png"
+    },
+    {
+        "id": 4,
+        "name": "SEXY PILATES ABS",
+        "price": "27.22",
+        "description": "If you notice you need a little pick me up throughout the day, try reaching for protein snacks. You will definitely notice a boost in energy and a reduced need for unhealthy snacking. What is your favorite protein-sourced snack?",
+        "img": "https://i.ibb.co/LN5z9kC/carl-barcelo-nq-UHQku-Vj3c-unsplash.png"
+    },
+    {
+        "id": 5,
+        "name": "MAGIC CIRCLE",
+        "price": "39.34",
+        "description": "I love to journal in the morning and evening. After a particularly stressful day, I find it so helpful to get my thoughts down on paper in the evenings to let go of the day’s stressors so that I can sleep peacefully.",
+        "img": "https://i.ibb.co/j8r2qDw/image-6-370x370.png"
+    },
+    {
+        "id": 6,
+        "name": "YOGA TONE",
+        "price": "11.99",
+        "description": "I’m an avid yogi – I use yoga for a variety of reasons – from calming and centering myself to energizing myself for the day ahead.",
+        "img": "https://i.ibb.co/7CzPXxP/retreat.png"
     }
 ]

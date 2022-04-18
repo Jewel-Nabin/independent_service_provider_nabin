@@ -1,0 +1,9 @@
+.not-page-found {}
+
+.not-found-btn {
+    background: #ED91B8;
+    color: white;
+    border-radius: none;
+    border: none;
+    padding: 10px;
+}
