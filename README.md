@@ -1,5 +1,5 @@
 * UI Site-Name: Balance Yoga
-* Site-Link: Open[https://veganic-product-review-nabin.netlify.app/]
+* Site-Link: Open[https://balance-yoga-25ef2.web.app/]
 
 
 Balance Yoga – Personal Yoga Trainer theme with online appointments booking system. Out-of-the-box solution, fully equipped in regards to its purpose, endless possibilities.
@@ -41,7 +41,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://balance-yoga-25ef2.web.app/](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
