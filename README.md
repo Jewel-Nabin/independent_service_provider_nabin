@@ -2,6 +2,32 @@
 * Site-Link: Open[https://veganic-product-review-nabin.netlify.app/]
 
 
+Balance Yoga – Personal Yoga Trainer theme with online appointments booking system. Out-of-the-box solution, fully equipped in regards to its purpose, endless possibilities.
+
+Features I added: 
+* Coded to the highest standards
+* Fully responsive
+* Action hooks
+* Design your own Header and Footer
+* Google Fonts
+* Fully documented
+
+Included Files:	
+* HTML Files
+* CSS Files
+* JS Files
+
+Templates Include:
+* Home
+* About Us
+* Services
+* Blog
+* Login
+* Logout
+* 404 Page
+* Header
+* Footer
+
 
 
 # Getting Started with Create React App
